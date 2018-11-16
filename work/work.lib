@@ -1,0 +1,149 @@
+timestamp=1493760439972
+
+[~A]
+LastVerilogToplevel=pipelined_datapath_tb
+ModifyID=1
+Version=73
+design.sv_testbench.sv=0*3963*9466
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2015.06.92 (Linux64)|00000019789cd32dc9cc4d2d4e4ecc495530cc2bd6076205dde232a36c4b0071ae0864|c73a565f2ade592f8ac1c68f484c9216fb963b625a1b559647eed3492a8de267
+
+[FA]
+A/FA=22|./../FA.v|6|1*454
+BinL64/FA=3*174
+R=./../FA.v|6
+SLP=3*277
+Version=2015.06.92 (Linux64)|00000019789cd32dc9cc4d2d4e4ecc495530cc2bd6076205dde232a36c4b0071ae0864|f1750500365c95ccf822ac76f373146ba68ab866698af61dc82610a168c63f26
+
+[adder]
+A/adder=22|./../adder.v|6|1*2175
+BinL64/adder=3*368
+R=./../adder.v|6
+SLP=3*1691
+Version=2015.06.92 (Linux64)|00000019789cd32dc9cc4d2d4e4ecc495530cc2bd6076205dde232a36c4b0071ae0864|aa2639a8a5a70ec6691b492f142f0ca2f2402dde0ed389e0fd00b0c77855fe3a
+
+[alu32]
+A/alu32=22|./../alu32.v|6|1*4115
+BinL64/alu32=3*1989
+R=./../alu32.v|6
+SLP=3*3012
+Version=2015.06.92 (Linux64)|00000019789cd32dc9cc4d2d4e4ecc495530cc2bd6076205dde232a36c4b0071ae0864|f75a2c0519836d15500a330c902c0c52695d28cbbdb971bab10184b34a1af25c
+
+[ctrlUnit]
+A/ctrlUnit=22|./../ctrlUnit.v|7|1*17683
+BinL64/ctrlUnit=3*13446
+R=./../ctrlUnit.v|7
+SLP=3*14558
+Version=2015.06.92 (Linux64)|00000019789cd32dc9cc4d2d4e4ecc495530cc2bd6076205dde232a36c4b0071ae0864|a468472be3d0dcabf07751dd6aea7481bf54c37a5929d0b0bef44c4f98f3ba183641db9f1b7057ce1e2e1bfb81e98d04
+
+[decoder4]
+A/decoder4=22|./../decoder4.v|6|1*5594
+BinL64/decoder4=3*3404
+R=./../decoder4.v|6
+SLP=3*3877
+Version=2015.06.92 (Linux64)|00000019789cd32dc9cc4d2d4e4ecc495530cc2bd6076205dde232a36c4b0071ae0864|ba66384ed9c252fa81b2a9574dcd3945c340daa5b3b02a8ca0f34793fbabbfedae0bddfc452ba1fcd5d058fdef6236aa
+
+[flopr_param]
+A/flopr_param=22|./../flopr_param.v|6|1*6495
+BinL64/flopr_param=3*4033
+R=./../flopr_param.v|6
+SLP=3*5074
+Version=2015.06.92 (Linux64)|00000019789cd32dc9cc4d2d4e4ecc495530cc2bd6076205dde232a36c4b0071ae0864|a17bfd0fcd92deec4f51242a9529175ef37df4a21953a511bfc08229ea028a88560ff51068c0b772e37770d32914614c
+
+[hazard]
+A/hazard=22|./../hazard.v|1|1*31150
+BinL64/hazard=3*21682
+R=./../hazard.v|1
+SLP=3*23524
+Version=2015.06.92 (Linux64)|00000019789cd32dc9cc4d2d4e4ecc495530cc2bd6076205dde232a36c4b0071ae0864|d0300dde617312c117fc3a07169800c4dde3bebaf5c002df3a6e4ab41594ae02
+
+[mux2]
+A/mux2=22|./../mux2.v|6|1*7844
+BinL64/mux2=3*5297
+R=./../mux2.v|6
+SLP=3*6289
+Version=2015.06.92 (Linux64)|00000019789cd32dc9cc4d2d4e4ecc495530cc2bd6076205dde232a36c4b0071ae0864|f9ee56a8e70b6379e416e505b7720bdc8eb57464ea349fc60763e7eea531a788
+
+[mux4]
+A/mux4=22|./../mux4.v|6|1*9426
+BinL64/mux4=3*6483
+R=./../mux4.v|6
+SLP=3*7503
+Version=2015.06.92 (Linux64)|00000019789cd32dc9cc4d2d4e4ecc495530cc2bd6076205dde232a36c4b0071ae0864|c014f795e05fa981f85b0c998c39b16fc201f51a96988c8e2077499c03d7a5f8
+
+[pipelined_datapath]
+A/pipelined_datapath=22|./../pipelined_dp.v|3|1*19357
+BinL64/pipelined_datapath=3*15728
+R=./../pipelined_dp.v|3
+SLP=3*19725
+Version=2015.06.92 (Linux64)|00000019789cd32dc9cc4d2d4e4ecc495530cc2bd6076205dde232a36c4b0071ae0864|94c281e3ea8dfada5ec51d2e7c0859c4e8f3e95ca639157f9e681a66adcc7765270f6b8f0815064e5d5cd4cec1ca617c
+
+[pipelined_datapath_tb]
+A/pipelined_datapath_tb=22|./../pipelined_dp_tb.v|7|1*34081
+BinL64/pipelined_datapath_tb=3*24386
+R=./../pipelined_dp_tb.v|7
+SLP=3*33818
+Version=2015.06.92 (Linux64)|00000019789cd32dc9cc4d2d4e4ecc495530cc2bd6076205dde232a36c4b0071ae0864|94c281e3ea8dfada5ec51d2e7c0859c415b7ac2f5869c96abb011437d90d9f598eb22a1dfb7470d1868fa737ed418420
+
+[ram]
+A/ram=22|./../ram.v|6|1*14451
+BinL64/ram=3*10412
+R=./../ram.v|6
+SLP=3*11655
+Version=2015.06.92 (Linux64)|00000019789cd32dc9cc4d2d4e4ecc495530cc2bd6076205dde232a36c4b0071ae0864|a936fc2a703b3f48871772595baaafebca867cb47dcfe9e4b52a69749fcfad82
+
+[regFile32]
+A/regFile32=22|./../regFile32.v|6|1*10899
+BinL64/regFile32=3*7801
+R=./../regFile32.v|6
+SLP=3*8775
+Version=2015.06.92 (Linux64)|00000019789cd32dc9cc4d2d4e4ecc495530cc2bd6076205dde232a36c4b0071ae0864|058a1902e5188fde2da2a39b763c3e2130e3ca8d8f0600ff0bb25021ed8b3e2c74692dbb578902d4e728aaf53f5e4e74
+
+[rom]
+A/rom=22|./../rom.v|6|1*16120
+BinL64/rom=3*11910
+R=./../rom.v|6
+SLP=3*13150
+Version=2015.06.92 (Linux64)|00000019789cd32dc9cc4d2d4e4ecc495530cc2bd6076205dde232a36c4b0071ae0864|ebfd4eb2455ce3432cfa489b4a6672988770e00db2e5d09068ee232ff27d0117
+
+[signext]
+A/signext=22|./../signext.v|6|1*12728
+BinL64/signext=3*9138
+R=./../signext.v|6
+SLP=3*9689
+Version=2015.06.92 (Linux64)|00000019789cd32dc9cc4d2d4e4ecc495530cc2bd6076205dde232a36c4b0071ae0864|0c5ead8c83634a10b695d9722f73717726527262ddaa47cb266f3a3c4d9b973adaaa2914ff4d5eb0f5eac5c5adc2d819
+
+[sll4]
+A/sll4=22|./../sll4.v|6|1*13634
+BinL64/sll4=3*9861
+R=./../sll4.v|6
+SLP=3*10275
+Version=2015.06.92 (Linux64)|00000019789cd32dc9cc4d2d4e4ecc495530cc2bd6076205dde232a36c4b0071ae0864|c6386629aa132b5f039de361f4b91eb0c201f51a96988c8e2077499c03d7a5f8
+
+[~MFT]
+0=19|0work.mgf|9466|0
+1=17|1work.mgf|34081|0
+3=34|3work.mgf|33818|0
+
+[~U]
+$root=12|0*0|
+FA=12|0*278|
+adder=12|0*463||0x10
+alu32=12|0*686|
+ctrlUnit=12|0*2828|
+decoder4=12|0*911||0x10
+flopr_param=12|0*1095||0x10
+hazard=12|0*3374|
+mux2=12|0*1329||0x10
+mux4=12|0*1543|
+pipelined_datapath=12|0*3096|
+pipelined_datapath_tb=12|0*3734||0x10
+ram=12|0*2364|
+regFile32=12|0*1773|
+rom=12|0*2607|
+signext=12|0*2008||0x10
+sll4=12|0*2191||0x10

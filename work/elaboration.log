@@ -1,0 +1,44 @@
+Riviera-PRO 2015.06.92.5791(Linux64) 2017-05-02 21:27:21
+
+Elaboration top modules:
+Verilog Module                adder
+Verilog Module                decoder4
+Verilog Module                flopr_param
+Verilog Module                mux2
+Verilog Module                pipelined_datapath_tb
+Verilog Module                signext
+Verilog Module                sll4
+
+
+--------------------------------------------------------------------------------------------
+Verilog Module          | Library | Info | Compiler Version     | Compilation Options
+--------------------------------------------------------------------------------------------
+decoder4                | work    |      | 2015.06.92 (Linux64) | -timescale 1ns/1ns -sv2k9
+flopr_param             | work    |      | 2015.06.92 (Linux64) | -timescale 1ns/1ns -sv2k9
+mux2                    | work    |      | 2015.06.92 (Linux64) | -timescale 1ns/1ns -sv2k9
+pipelined_datapath_tb   | work    |      | 2015.06.92 (Linux64) | -timescale 1ns/1ns -sv2k9
+signext                 | work    |      | 2015.06.92 (Linux64) | -timescale 1ns/1ns -sv2k9
+sll4                    | work    |      | 2015.06.92 (Linux64) | -timescale 1ns/1ns -sv2k9
+adder                   | work    |      | 2015.06.92 (Linux64) | -timescale 1ns/1ns -sv2k9
+FA                      | work    |      | 2015.06.92 (Linux64) | -timescale 1ns/1ns -sv2k9
+pipelined_datapath      | work    |      | 2015.06.92 (Linux64) | -timescale 1ns/1ns -sv2k9
+rom                     | work    |      | 2015.06.92 (Linux64) | -timescale 1ns/1ns -sv2k9
+ctrlUnit                | work    |      | 2015.06.92 (Linux64) | -timescale 1ns/1ns -sv2k9
+regFile32               | work    |      | 2015.06.92 (Linux64) | -timescale 1ns/1ns -sv2k9
+alu32                   | work    |      | 2015.06.92 (Linux64) | -timescale 1ns/1ns -sv2k9
+mux4                    | work    |      | 2015.06.92 (Linux64) | -timescale 1ns/1ns -sv2k9
+ram                     | work    |      | 2015.06.92 (Linux64) | -timescale 1ns/1ns -sv2k9
+hazard                  | work    |      | 2015.06.92 (Linux64) | -timescale 1ns/1ns -sv2k9
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Library                 | Comment
+--------------------------------------------------------------------------------------------
+work                    | None
+--------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access+r
+
+
+The performance of simulation is reduced. Version EDU Edition
